@@ -56,4 +56,4 @@ int main()
  ```
  ## link
  .[markdown](https://www.markdownguide.org/cheat-sheet/)
- 
+![PICTURE]( https://github.com/gbrahmareddy/markdown-syntax/blob/master/pict.jpg)
