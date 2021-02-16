@@ -57,4 +57,5 @@ int main()
  ## link
  .[markdown](https://www.markdownguide.org/cheat-sheet/)
  
+ ## insert image
 ![PICTURE]( https://github.com/gbrahmareddy/markdown-syntax/blob/master/pict.jpg)
