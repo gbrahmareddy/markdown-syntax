@@ -3,3 +3,12 @@
 ### brahnareddy
 #### eee
 ##### kits
+**bold**
+**brahmareddy**
+-eee-
+##italic##
+*eee*
+
+-eee-
+**-bold and italic-**
+**-brahma-**
