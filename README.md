@@ -35,3 +35,10 @@
 - apssdc
 - kits
 ## code
+```pythopn
+def fun():
+    printf("hello kits eee")
+```     
+```
+fun()
+```
