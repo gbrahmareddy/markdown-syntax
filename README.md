@@ -55,5 +55,5 @@ int main()
  }
  ```
  ## link
- .[markdown].(https://www.markdownguide.org/cheat-sheet/)
+ .[markdown](https://www.markdownguide.org/cheat-sheet/)
  
